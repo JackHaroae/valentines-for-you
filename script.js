@@ -1,14 +1,14 @@
 const messages = [
-    "Sure jud ka😏?",
-    "Sure najud na🥹??",
-    "Weh positive jud na😢?",
+    "Sure kana ba jan😏?",
+    "Sure kana talaga🥹??",
+    "Weh positive kaba jan😢?",
     "Sige na Pookie please🥹🙏...",
     "Just think about it!",
-    "If mag no ka, I will be really sad jud...",
+    "If mag no ka, I will be really sad...",
     "I will be very sad na😟...",
-    "sad nako mo hilak jud ko😭...",
+    "i yes mo na lab😭...",
     "Ok sige, I will stop asking na😩...",
-    "atik ra, say yes na please!❤️"
+    "say yes na please!❤️"
 ];
 
 let messageIndex = 0;
